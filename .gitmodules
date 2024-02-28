@@ -1,0 +1,42 @@
+[submodule "in2p3_2021/reveal.js"]
+	path = in2p3_2021/reveal.js
+	url = https://github.com/EiffL/reveal.js.git
+[submodule "ITA2021/reveal.js"]
+	path = ITA2021/reveal.js
+	url = https://github.com/EiffL/reveal.js.git
+[submodule "ML-IAP2021/reveal.js"]
+	path = ML-IAP2021/reveal.js
+	url = https://github.com/EiffL/reveal.js.git
+[submodule "UDOPIA2021/reveal.js"]
+	path = UDOPIA2021/reveal.js
+	url = https://github.com/EiffL/reveal.js.git
+[submodule "Moriond2022/reveal.js"]
+	path = Moriond2022/reveal.js
+	url = https://github.com/EiffL/reveal.js.git
+[submodule "ETHCosmoClub2022/reveal.js"]
+	path = ETHCosmoClub2022/reveal.js
+	url = https://github.com/EiffL/reveal.js.git
+[submodule "Oslo2022/reveal.js"]
+	path = Oslo2022/reveal.js
+  url = https://github.com/EiffL/reveal.js.git
+[submodule "Paris2022/reveal.js"]
+	path = Paris2022/reveal.js
+	url = https://github.com/EiffL/reveal.js.git
+[submodule "EDE2022/reveal.js"]
+	path = EDE2022/reveal.js
+	url = https://github.com/EiffL/reveal.js.git
+[submodule "GPUDAY2023/reveal.js"]
+	path = GPUDAY2023/reveal.js
+	url = https://github.com/EiffL/reveal.js.git
+[submodule "TOSCA2023/reveal.js"]
+	path = TOSCA2023/reveal.js
+	url = https://github.com/EiffL/reveal.js.git
+[submodule "NYC2023/reveal.js"]
+	path = NYC2023/reveal.js
+	url = https://github.com/EiffL/reveal.js.git
+[submodule "Defense/reveal.js"]
+	path = Defense/reveal.js
+	url = https://github.com/EiffL/reveal.js.git
+[submodule "Thunch2023/reveal.js"]
+	path = Thunch2024/reveal.js
+	url = https://github.com/EiffL/reveal.js.git
